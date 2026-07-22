@@ -1,5 +1,7 @@
 # RAG From Scratch
 
+![RAG From Scratch](assets/social-preview.png)
+
 **A dependency-light Retrieval-Augmented Generation pipeline, built stage by stage — no LangChain, no black-box framework, every part visible and swappable.**
 
 **Ram Kumar Lanke** — Applied AI Solutions Architect
