@@ -13,7 +13,7 @@
 **Ram Kumar Lanke** — Applied AI Solutions Architect
 [lankeramkumar@gmail.com](mailto:lankeramkumar@gmail.com)
 
-**[Live interactive demo](https://lankeramkumar.github.io/rag-from-scratch/)** — explore the embedding space and vector search results directly in your browser, no clone required.
+**[Live interactive demo](https://lankeramkumar.github.io/rag-from-scratch/)** — explore the embedding space, vector search results, and a side-by-side comparison of all 6 chunking strategies directly in your browser, no clone required.
 
 ## Watch: "Why ChatGPT Isn't Enough: The Problem RAG Solves"
 
@@ -62,8 +62,9 @@ policy PDF identically at retrieval time.
   cite every claim back to a specific source chunk, so you can verify every
   sentence of the answer traces back to an actual document.
 - **Interactive visualizations** — self-contained HTML files (open directly
-  in a browser, no server) showing the embedding space and a live query's
-  nearest neighbors.
+  in a browser, no server) showing the embedding space, a live query's
+  nearest neighbors, and all 6 chunking strategies' boundaries highlighted
+  directly on the same real documents, side by side.
 
 ## Quick start
 
@@ -94,6 +95,7 @@ prints a cited, grounded answer pulled from the actual PDF protocol document
 | 6 | `06_augmentation.py` | Dedupe, budget, and cite retrieved chunks into a prompt |
 | 7 | `07_generation.py` | Send the prompt to Claude, print a cited answer |
 | 8–9 | `08_/09_visualize_*.py` | Interactive HTML views of the embedding space and search results |
+| 10 | `10_visualize_chunking.py` | Interactive side-by-side comparison of all 6 chunking strategies on the same real documents |
 
 **→ Full command reference, flags, and 9 worked examples with real output: [USER_MANUAL.md](USER_MANUAL.md)**
 
@@ -127,7 +129,7 @@ different file formats, one grounded answer.
 ## Project layout
 
 ```
-scripts/                            01-09, run in order (see table above)
+scripts/                            01-10, run in order (see table above)
 Sunrise_Medical_Center_Documents/   36 sample documents across 11 department folders
 output/                             everything the pipeline produces
 USER_MANUAL.md                      full command reference + worked examples

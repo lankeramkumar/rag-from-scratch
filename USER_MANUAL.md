@@ -72,6 +72,7 @@ You only need to redo the setup steps when the **source documents** or the
 | 07 | `07_generation.py` | Sends the augmented prompt to Claude (`claude-opus-4-8`) and prints a cited answer; falls back to a mock answer if no API key | (calls 06 internally) | `output/07_generated_answers.json` |
 | 08 | `08_visualize_embeddings.py` | Projects all chunk embeddings to 2D and plots them (static PNGs + interactive HTML) | `03_embeddings.*` | `output/08_embedding_space_*.png/html` |
 | 09 | `09_visualize_search.py` | Same 2D space, plus a dropdown of demo queries with their nearest neighbors drawn in | `03_embeddings.*`, `03_embedder.pkl` | `output/09_vector_search_interactive.html` |
+| 10 | `10_visualize_chunking.py` | Renders 6 real documents once per chunking strategy, with chunk boundaries highlighted directly on the text (nested view for parent-child) | `01_extracted_corpus.json`, `02_chunks_<strategy>.json` (all 6) | `output/10_chunking_strategies_interactive.html` |
 
 **07 is the command you'll use most** — it silently runs 05 and 06 for you,
 so `python scripts/07_generation.py "..."` is a complete question-answering
@@ -272,6 +273,22 @@ document it's from and its actual text) and
 `09_vector_search_interactive.html` (a dropdown of demo queries, plotted as a
 star with dashed lines to its top-4 nearest neighbors). Double-click either
 file to open it in a browser — no server or download needed.
+
+---
+
+### Example 10 — Comparing chunking strategies visually
+
+```
+python scripts/10_visualize_chunking.py
+```
+
+**Expected result:** writes `output/10_chunking_strategies_interactive.html`
+— pick any of 6 real documents from a dropdown, and see all 6 chunking
+strategies rendered against that same document, chunk boundaries highlighted
+directly on the text. The `parent_child` panel renders a nested view: a
+dashed amber box for each parent chunk, with its small child chunks
+highlighted inside — the same small-to-big relationship
+`06_augmentation.py` relies on at generation time.
 
 ---
 

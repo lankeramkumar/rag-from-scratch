@@ -59,11 +59,10 @@
   }
   .cards {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
     gap: 18px;
     margin: 20px 0 40px;
   }
-  @media (max-width: 640px) { .cards { grid-template-columns: 1fr; } }
   a.card {
     display: block;
     text-decoration: none;
@@ -182,6 +181,10 @@
     <a class="card" href="output/09_vector_search_interactive.html">
       <h3>Vector Search <span class="arrow">&rarr;</span></h3>
       <p>Pick a demo question and watch it plotted as a star, with dashed lines to its top-4 nearest neighbors in the same space.</p>
+    </a>
+    <a class="card" href="output/10_chunking_strategies_interactive.html">
+      <h3>Chunking Strategies <span class="arrow">&rarr;</span></h3>
+      <p>The same real documents, split 6 different ways. Chunk boundaries highlighted directly on the text, including the nested parent-child view.</p>
     </a>
   </div>
 
