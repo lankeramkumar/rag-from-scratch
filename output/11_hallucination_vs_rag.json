@@ -1,0 +1,114 @@
+[
+  {
+    "question": "What is Sunrise Medical Center's protocol for treating a suspected stroke patient in the emergency room?",
+    "ungrounded_answer": "I don't have specific information about \"Sunrise Medical Center's\" internal protocols. A few things to clarify:\n\n- There are multiple facilities named \"Sunrise Medical Center\" or \"Sunrise Hospital\" across different locations, and I don't have access to any particular one's internal policy documents.\n- Hospital protocols are internal documents that aren't typically part of my training data, and they vary by institution.\n\n**How to get the actual protocol:**\n- Contact the specific hospital's clinical education or quality department\n- If you're a staff member, check the internal policy/procedure system (e.g., their intranet or a system like PolicyStat)\n- Ask the ED medical director or stroke coordinator\n\n**General overview of standard stroke protocols** (based on AHA/ASA guidelines, not any specific hospital):\n\n1. **Recognition & activation** – Use screening tools (e.g., FAST, Cincinnati, or NIHSS) and activate a \"Code Stroke.\"\n2. **Rapid assessment** – Establish \"last known well\" time, vital signs, blood glucose, IV access.\n3. **Imaging** – Emergent non-contrast CT head (goal: door-to-CT within ~25 min) to rule out hemorrhage; possible CT angiography/perfusion.\n4. **Labs & workup** – CBC, coagulation studies, glucose, ECG.\n5. **Treatment decisions:**\n   - **Ischemic stroke:** Consider IV thrombolytics (alteplase/tenecteplase) if within the time window and no contraindications (goal door-to-needle ~60 min); evaluate for mechanical thrombectomy for large vessel occlusion.\n   - **Hemorrhagic stroke:** Blood pressure management, reverse anticoagulation, neurosurgery consult.\n6. **Disposition** – Admit to stroke unit/ICU or transfer to a comprehensive stroke center if needed.\n\nIf you can tell me which specific hospital and your role (patient, family, clinician, student), I can point you toward better resources. For clinical decisions, always rely on your institution's official protocol and clinical judgment.",
+    "grounded_answer": "The context provides some information about Sunrise Medical Center's Suspected Acute Stroke Protocol, but it does not contain the full treatment procedure.\n\nWhat is available:\n- There is a standardized \"Suspected Acute Stroke Protocol — Emergency Department\" (Document ID: SMC-ED-014) that establishes the process for identification, triage, imaging, and treatment of patients with acute stroke symptoms [1].\n- Glucose correction should occur immediately alongside—not instead of—the standard \"Code Stroke\" workup, since mimics are only confirmed after imaging and clinical reassessment [2].\n- For inter-facility transfers, the ED charge nurse should activate a pre-arrival Code Stroke so imaging and neurology are ready when the patient arrives, rather than waiting until the patient is physically in the department [2].\n\nHowever, the context does not provide the detailed, step-by-step treatment procedures (e.g., specific medications, imaging requirements, time targets, or full triage criteria). To answer fully, additional sections of the protocol would be needed.",
+    "grounded_mode": "claude",
+    "sources": [
+      {
+        "ref": 1,
+        "filename": "Stroke_Protocol_Emergency_Department.pdf",
+        "chunk_index": 0
+      },
+      {
+        "ref": 2,
+        "filename": "Stroke_Protocol_Emergency_Department.pdf",
+        "chunk_index": 15
+      },
+      {
+        "ref": 3,
+        "filename": "New_Employee_Orientation_Welcome_Message.mp3",
+        "chunk_index": 0
+      },
+      {
+        "ref": 4,
+        "filename": "Sepsis_Recognition_and_Treatment_Protocol.pdf",
+        "chunk_index": 0
+      }
+    ]
+  },
+  {
+    "question": "What extension do I call for the IT Helpdesk at Sunrise Medical Center, and is it available 24/7?",
+    "ungrounded_answer": "I don't have access to specific information about Sunrise Medical Center's internal systems, including their IT Helpdesk extension number or hours of operation. This kind of information isn't something I'd have in my knowledge base, as it's specific to that particular organization's internal directory.\n\nTo find this information, I'd suggest:\n\n1. **Check your internal directory or intranet** – Most organizations list helpdesk contact info here.\n2. **Look at your employee onboarding materials** – IT contact details are often included.\n3. **Ask a colleague or supervisor** – They likely know the extension.\n4. **Check posted signage** – Helpdesk numbers are sometimes posted near workstations or in common areas.\n5. **Consult your IT department's email footer or ticketing system** – These often include contact details and hours.\n\nIf it's helpful, I'd also note that there may be more than one \"Sunrise Medical Center\" (it's a fairly common name for healthcare facilities), so verifying you have the right organization's info matters too.\n\nIs there anything else I can help you with?",
+    "grounded_answer": "The provided context does not contain the IT Helpdesk extension number or its hours of availability. While there is a document about how to submit an IT Helpdesk ticket [3], the specific extension and 24/7 availability are not included in the context. The only 24/7 service mentioned is the Confidential Compliance Hotline, which is unrelated to IT [4].",
+    "grounded_mode": "claude",
+    "sources": [
+      {
+        "ref": 1,
+        "filename": "Employee_Handbook_2026.docx",
+        "chunk_index": 0
+      },
+      {
+        "ref": 2,
+        "filename": "New_Employee_Orientation_Welcome_Message.mp3",
+        "chunk_index": 0
+      },
+      {
+        "ref": 3,
+        "filename": "IT_Helpdesk_Ticket_Submission_Notes.txt",
+        "chunk_index": 0
+      },
+      {
+        "ref": 4,
+        "filename": "Employee_Handbook_2026.docx",
+        "chunk_index": 9
+      }
+    ]
+  },
+  {
+    "question": "What is the maximum dollar value of a vendor gift an employee can accept at Sunrise Medical Center before it must be reported, and what is the policy document ID?",
+    "ungrounded_answer": "I don't have access to Sunrise Medical Center's internal policies, so I can't tell you the specific dollar threshold for vendor gifts or the policy document ID.\n\nThese details vary significantly between organizations, and I have no way to verify or look up this particular institution's rules. To get an accurate answer, I'd recommend:\n\n- **Checking your employee handbook** or your organization's policy portal/intranet\n- **Contacting your Compliance or Ethics office** directly\n- **Reaching out to HR** or your supervisor\n- **Searching your document management system** for terms like \"vendor gift policy,\" \"conflict of interest,\" or \"gift acceptance\"\n\nIf you happen to have the policy document and can share the relevant text, I'd be glad to help you interpret it. But I can't fabricate a specific dollar amount or document ID, as providing made-up compliance details could get you in trouble.",
+    "grounded_answer": "A holiday gift basket from a vendor may only be accepted if its value is nominal—under $25—and it is shared among the department rather than given to a single individual; higher-value gifts must be declined or donated to a hospital charitable program [1].\n\nThe relevant document is the Code of Conduct and Ethics Policy, Document ID: SMC-COMP-002 [3].\n\nNote: The context specifies the $25 nominal threshold for acceptable gifts but does not explicitly state a separate reporting threshold, so I cannot confirm whether \"reporting\" applies at exactly this value.",
+    "grounded_mode": "claude",
+    "sources": [
+      {
+        "ref": 1,
+        "filename": "Code_of_Conduct_and_Ethics_Policy.docx",
+        "chunk_index": 6
+      },
+      {
+        "ref": 2,
+        "filename": "Employee_Handbook_2026.docx",
+        "chunk_index": 0
+      },
+      {
+        "ref": 3,
+        "filename": "Code_of_Conduct_and_Ethics_Policy.docx",
+        "chunk_index": 0
+      },
+      {
+        "ref": 4,
+        "filename": "Medicine_Storage_and_Controlled_Substances_Policy.docx",
+        "chunk_index": 0
+      }
+    ]
+  },
+  {
+    "question": "What should a nurse do if a medication refrigerator's temperature goes out of range at Sunrise Medical Center?",
+    "ungrounded_answer": "I don't have access to Sunrise Medical Center's specific policies, so I can't give you their exact protocol. However, I can outline the general steps most healthcare facilities follow when a medication refrigerator goes out of range. **You should verify these against your facility's actual policy and procedures.**\n\n## General Steps for an Out-of-Range Medication Refrigerator\n\n**1. Document immediately**\n- Record the actual temperature reading, date, and time\n- Note how long it may have been out of range (check logs/data loggers if available)\n\n**2. Don't discard or use the medications yet**\n- Quarantine affected medications (label \"Do Not Use\" / \"Quarantine\")\n- Many meds have allowable excursion limits, so they may still be usable\n\n**3. Notify the appropriate people**\n- Charge nurse / supervisor\n- Pharmacy (they typically make the final determination on medication viability)\n- Biomedical/facilities/maintenance for equipment issues\n\n**4. Attempt to correct the temperature**\n- Check that the door is fully closed\n- Check the thermostat setting\n- Verify the unit is plugged in and powered\n- Move medications to a validated backup refrigerator if needed\n\n**5. Follow pharmacy guidance on the medications**\n- Pharmacy will assess stability based on excursion data and manufacturer info\n- Some drugs (e.g., certain vaccines, insulin, biologics) are especially sensitive\n\n**6. Complete required documentation**\n- Temperature excursion / incident report\n- Corrective action log\n\n## Where to Find Your Specific Policy\n- Your unit's **policy and procedure manual**\n- **Pharmacy department** protocols\n- The facility **intranet** or document management system\n- Your **charge nurse, manager, or pharmacist**\n\nWould you like a general template for a temperature excursion log, or guidance on which medications are typically most temperature-sensitive?",
+    "grounded_answer": "If a standard medication refrigerator's temperature goes out of range, the nurse should quarantine the contents and call the Pharmacy Supervisor [2].",
+    "grounded_mode": "claude",
+    "sources": [
+      {
+        "ref": 1,
+        "filename": "Pharmacy_Refrigerator_Temperature_Log_Instructions.txt",
+        "chunk_index": 0
+      },
+      {
+        "ref": 2,
+        "filename": "Pharmacy_Refrigerator_Temperature_Log_Instructions.txt",
+        "chunk_index": 2
+      },
+      {
+        "ref": 3,
+        "filename": "Employee_Handbook_2026.docx",
+        "chunk_index": 0
+      },
+      {
+        "ref": 4,
+        "filename": "Cardiac_Arrest_Code_Blue_Protocol.pdf",
+        "chunk_index": 3
+      }
+    ]
+  }
+]

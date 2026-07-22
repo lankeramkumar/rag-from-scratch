@@ -292,6 +292,30 @@ highlighted inside — the same small-to-big relationship
 
 ---
 
+### Example 11 — Without RAG vs. with RAG, for real
+
+```
+python scripts/11_hallucination_vs_rag.py
+```
+
+**Expected result:** for each of 4 questions, calls the real Claude API
+twice — once alone (no document context, exactly like asking ChatGPT
+directly) and once through the full retrieval → augmentation → generation
+pipeline — and prints both answers side by side. Also writes
+`output/11_hallucination_vs_rag.json` (raw results) and
+`output/11_hallucination_vs_rag_interactive.html` (a dropdown to switch
+between all 4 questions, red "without RAG" / green "with RAG" panels, and
+citations on the grounded side). Requires `ANTHROPIC_API_KEY` — there's no
+mock mode for this one, since the entire point is what the real model
+actually does both ways.
+
+On the gift-policy question, for example, the ungrounded side correctly
+refuses to guess a specific dollar figure or document ID it has no way of
+knowing; the grounded side answers both exactly, cited: `$25` and
+`SMC-COMP-002`.
+
+---
+
 ## 5. Command-line flags reference
 
 | Flag | Available in | Meaning |

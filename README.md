@@ -13,7 +13,7 @@
 **Ram Kumar Lanke** — Applied AI Solutions Architect
 [lankeramkumar@gmail.com](mailto:lankeramkumar@gmail.com)
 
-**[Live interactive demo](https://lankeramkumar.github.io/rag-from-scratch/)** — explore the embedding space, vector search results, and a side-by-side comparison of all 6 chunking strategies directly in your browser, no clone required.
+**[Live interactive demo](https://lankeramkumar.github.io/rag-from-scratch/)** — explore the embedding space, vector search results, a side-by-side comparison of all 6 chunking strategies, and a live "without RAG vs. with RAG" comparison, directly in your browser, no clone required.
 
 ## Watch: "Why ChatGPT Isn't Enough: The Problem RAG Solves"
 
@@ -61,6 +61,10 @@ policy PDF identically at retrieval time.
 - **Real generation, real citations** — calls Claude and instructs it to
   cite every claim back to a specific source chunk, so you can verify every
   sentence of the answer traces back to an actual document.
+- **A live "without RAG vs. with RAG" comparison** — the same question sent
+  to the real Claude API twice: once alone (exactly like asking ChatGPT
+  directly), once through this pipeline. Nothing is scripted — see [the
+  proof below](#without-rag-vs-with-rag-a-real-comparison).
 - **Interactive visualizations** — self-contained HTML files (open directly
   in a browser, no server) showing the embedding space, a live query's
   nearest neighbors, and all 6 chunking strategies' boundaries highlighted
@@ -96,8 +100,32 @@ prints a cited, grounded answer pulled from the actual PDF protocol document
 | 7 | `07_generation.py` | Send the prompt to Claude, print a cited answer |
 | 8–9 | `08_/09_visualize_*.py` | Interactive HTML views of the embedding space and search results |
 | 10 | `10_visualize_chunking.py` | Interactive side-by-side comparison of all 6 chunking strategies on the same real documents |
+| 11 | `11_hallucination_vs_rag.py` | Same question, asked with and without RAG — real Claude API calls both sides, side by side |
 
 **→ Full command reference, flags, and 9 worked examples with real output: [USER_MANUAL.md](USER_MANUAL.md)**
+
+## Without RAG vs. With RAG: A Real Comparison
+
+This is the entire argument for RAG, run for real against the live Claude API
+— not scripted, not cherry-picked wording. Same question, asked two ways:
+
+```bash
+python scripts/11_hallucination_vs_rag.py
+```
+
+**Q: What is the maximum dollar value of a vendor gift an employee can accept
+at Sunrise Medical Center before it must be reported, and what is the policy
+document ID?**
+
+| Without RAG (Claude alone) | With RAG (this pipeline) |
+|---|---|
+| *"I don't have access to Sunrise Medical Center's internal policies, so I can't tell you the specific dollar threshold for vendor gifts or the policy document ID... I can't fabricate a specific dollar amount or document ID, as providing made-up compliance details could get you in trouble."* | *"A holiday gift basket from a vendor may only be accepted if its value is nominal — under $25... The relevant document is the Code of Conduct and Ethics Policy, Document ID: SMC-COMP-002 [3]."* |
+
+Claude is well-aligned enough to refuse to guess rather than hallucinate a
+number outright — which only sharpens the point: **without your documents, it
+cannot answer at all.** With them, it answers exactly, with a citation. See
+the **[live interactive version](https://lankeramkumar.github.io/rag-from-scratch/output/11_hallucination_vs_rag_interactive.html)**
+for 3 more real examples, side by side.
 
 ## A worked example
 

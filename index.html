@@ -89,6 +89,20 @@
     line-height: 1.5;
   }
   a.card .arrow { color: var(--accent); font-family: monospace; }
+  a.hero-card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: linear-gradient(135deg, rgba(56,189,248,0.10), rgba(167,139,250,0.10)), var(--node);
+    border: 1.5px solid var(--accent2);
+    border-radius: 16px;
+    padding: 26px 28px;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  a.hero-card:hover { transform: translateY(-2px); border-color: var(--accent); }
+  a.hero-card h3 { margin: 0 0 10px; font-size: 20px; color: var(--white); }
+  a.hero-card p { margin: 0; font-size: 14.5px; color: var(--gray); line-height: 1.6; max-width: 640px; }
+  a.hero-card .arrow { color: var(--accent); font-family: monospace; }
   section.section-label {
     font-family: "Consolas", "SF Mono", monospace;
     color: var(--accent2);
@@ -172,7 +186,13 @@
   <p class="tagline">A dependency-light RAG pipeline, built stage by stage.</p>
   <p class="tagline dim">No framework. Every part visible, swappable, and explainable — demonstrated over a real, multi-format (PDF/Word/text/image/audio/video) hospital document corpus.</p>
 
-  <div class="section-label">LIVE INTERACTIVE DEMOS</div>
+  <div class="section-label">THE WHOLE ARGUMENT, IN ONE DEMO</div>
+  <a class="hero-card" href="output/11_hallucination_vs_rag_interactive.html">
+    <h3>Without RAG vs. With RAG <span class="arrow">&rarr;</span></h3>
+    <p>The same question, sent to the real Claude API twice: once alone (exactly like asking ChatGPT directly), once through this pipeline. Nothing is scripted &mdash; see the model refuse to guess a fact it can't know, then answer it exactly, cited, once it has the document.</p>
+  </a>
+
+  <div class="section-label" style="margin-top:36px;">MORE INTERACTIVE DEMOS</div>
   <div class="cards">
     <a class="card" href="output/08_embedding_space_interactive.html">
       <h3>Embedding Space <span class="arrow">&rarr;</span></h3>
