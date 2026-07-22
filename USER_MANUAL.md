@@ -316,6 +316,24 @@ knowing; the grounded side answers both exactly, cited: `$25` and
 
 ---
 
+### Example 12 — Text extraction, before and after
+
+```
+python scripts/12_visualize_extraction.py
+```
+
+**Expected result:** writes `output/12_extraction_interactive.html` — pick
+one of 6 example documents (one per format) from a dropdown, and see the
+*actual source file* next to what `01_text_extraction.py` pulled out of it:
+a real `<img>` next to its OCR'd text, a playable `<audio>`/`<video>`
+element next to its transcript, an embedded PDF next to its parsed text.
+Word documents get a "browsers can't render .docx" placeholder instead —
+its own small illustration of why the extraction step has to exist at all.
+A stats strip at the top shows the corpus-wide extraction success rate
+(36/36) broken down by format.
+
+---
+
 ## 5. Command-line flags reference
 
 | Flag | Available in | Meaning |

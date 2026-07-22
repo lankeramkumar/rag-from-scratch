@@ -13,7 +13,7 @@
 **Ram Kumar Lanke** — Applied AI Solutions Architect
 [lankeramkumar@gmail.com](mailto:lankeramkumar@gmail.com)
 
-**[Live interactive demo](https://lankeramkumar.github.io/rag-from-scratch/)** — explore the embedding space, vector search results, a side-by-side comparison of all 6 chunking strategies, and a live "without RAG vs. with RAG" comparison, directly in your browser, no clone required.
+**[Live interactive demo](https://lankeramkumar.github.io/rag-from-scratch/)** — explore the embedding space, vector search results, a side-by-side comparison of all 6 chunking strategies, a live "without RAG vs. with RAG" comparison, and the original source next to its extracted text for every format, directly in your browser, no clone required.
 
 ## Watch: "Why ChatGPT Isn't Enough: The Problem RAG Solves"
 
@@ -67,8 +67,10 @@ policy PDF identically at retrieval time.
   proof below](#without-rag-vs-with-rag-a-real-comparison).
 - **Interactive visualizations** — self-contained HTML files (open directly
   in a browser, no server) showing the embedding space, a live query's
-  nearest neighbors, and all 6 chunking strategies' boundaries highlighted
-  directly on the same real documents, side by side.
+  nearest neighbors, all 6 chunking strategies' boundaries highlighted
+  directly on the same real documents, and the original source (a real
+  image, a playable audio/video recording, an embedded PDF) next to what
+  got extracted from it.
 
 ## Quick start
 
@@ -101,6 +103,7 @@ prints a cited, grounded answer pulled from the actual PDF protocol document
 | 8–9 | `08_/09_visualize_*.py` | Interactive HTML views of the embedding space and search results |
 | 10 | `10_visualize_chunking.py` | Interactive side-by-side comparison of all 6 chunking strategies on the same real documents |
 | 11 | `11_hallucination_vs_rag.py` | Same question, asked with and without RAG — real Claude API calls both sides, side by side |
+| 12 | `12_visualize_extraction.py` | The original source (image/audio/video/PDF) next to its extracted text, one example per format |
 
 **→ Full command reference, flags, and 9 worked examples with real output: [USER_MANUAL.md](USER_MANUAL.md)**
 
