@@ -2,10 +2,17 @@
 
 ![RAG From Scratch](assets/social-preview.png)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8.svg)](LICENSE)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-38bdf8.svg)](https://www.python.org/)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-a78bfa.svg)](https://lankeramkumar.github.io/rag-from-scratch/)
+[![GitHub stars](https://img.shields.io/github/stars/lankeramkumar/rag-from-scratch?style=social)](https://github.com/lankeramkumar/rag-from-scratch/stargazers)
+
 **A dependency-light Retrieval-Augmented Generation pipeline, built stage by stage — no LangChain, no black-box framework, every part visible and swappable.**
 
 **Ram Kumar Lanke** — Applied AI Solutions Architect
 [lankeramkumar@gmail.com](mailto:lankeramkumar@gmail.com)
+
+**[Live interactive demo](https://lankeramkumar.github.io/rag-from-scratch/)** — explore the embedding space and vector search results directly in your browser, no clone required.
 
 ---
 
