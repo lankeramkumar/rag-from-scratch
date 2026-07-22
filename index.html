@@ -122,6 +122,47 @@
   footer .name { font-weight: 700; }
   footer .role { color: var(--gray); margin-left: 10px; }
   footer a { color: var(--accent); text-decoration: none; font-family: "Consolas", "SF Mono", monospace; font-size: 13px; }
+
+  a.video-card {
+    position: relative;
+    display: inline-block;
+    text-decoration: none;
+    width: 320px;
+    max-width: 100%;
+    border-radius: 14px;
+    overflow: hidden;
+    border: 1px solid var(--dim);
+    background: var(--node);
+  }
+  a.video-card:hover { border-color: var(--accent); }
+  a.video-card img {
+    display: block;
+    width: 100%;
+    height: auto;
+    opacity: 0.85;
+  }
+  a.video-card .play {
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 56px;
+    height: 56px;
+    line-height: 56px;
+    text-align: center;
+    border-radius: 50%;
+    background: rgba(10, 14, 22, 0.75);
+    color: var(--white);
+    font-size: 20px;
+    border: 2px solid var(--accent);
+  }
+  a.video-card .video-title {
+    display: block;
+    padding: 12px 16px;
+    font-size: 14px;
+    color: var(--white);
+    line-height: 1.4;
+  }
 </style>
 </head>
 <body>
@@ -144,7 +185,14 @@
     </a>
   </div>
 
-  <div class="section-label">GET THE CODE</div>
+  <div class="section-label">WATCH THE EXPLAINER</div>
+  <a class="video-card" href="https://www.youtube.com/shorts/qmQqMsMJWXE">
+    <img src="https://img.youtube.com/vi/qmQqMsMJWXE/hqdefault.jpg" alt="Why ChatGPT Isn't Enough: The Problem RAG Solves">
+    <span class="play">&#9658;</span>
+    <span class="video-title">Why ChatGPT Isn't Enough: The Problem RAG Solves</span>
+  </a>
+
+  <div class="section-label" style="margin-top:36px;">GET THE CODE</div>
   <a class="repo-link" href="https://github.com/lankeramkumar/rag-from-scratch">View on GitHub &rarr;</a>
 
   <footer>

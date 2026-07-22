@@ -5,6 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-38bdf8.svg)](LICENSE)
 [![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-38bdf8.svg)](https://www.python.org/)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-GitHub%20Pages-a78bfa.svg)](https://lankeramkumar.github.io/rag-from-scratch/)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20the%20video-red.svg?logo=youtube)](https://www.youtube.com/shorts/qmQqMsMJWXE)
 [![GitHub stars](https://img.shields.io/github/stars/lankeramkumar/rag-from-scratch?style=social)](https://github.com/lankeramkumar/rag-from-scratch/stargazers)
 
 **A dependency-light Retrieval-Augmented Generation pipeline, built stage by stage — no LangChain, no black-box framework, every part visible and swappable.**
@@ -13,6 +14,10 @@
 [lankeramkumar@gmail.com](mailto:lankeramkumar@gmail.com)
 
 **[Live interactive demo](https://lankeramkumar.github.io/rag-from-scratch/)** — explore the embedding space and vector search results directly in your browser, no clone required.
+
+## Watch: "Why ChatGPT Isn't Enough: The Problem RAG Solves"
+
+[![Why ChatGPT Isn't Enough: The Problem RAG Solves](https://img.youtube.com/vi/qmQqMsMJWXE/hqdefault.jpg)](https://www.youtube.com/shorts/qmQqMsMJWXE)
 
 ---
 
