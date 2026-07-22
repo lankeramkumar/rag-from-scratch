@@ -1,0 +1,229 @@
+[
+  {
+    "query": "What fire safety and stroke recognition training does Sunrise Medical Center provide to staff, including training videos, audio announcements, written guides, and diagrams?",
+    "vector_search": [
+      {
+        "rank": 1,
+        "score": 0.2632570266723633,
+        "chunk_id": "Employee_Handbook_2026::recursive::0",
+        "doc_id": "Employee_Handbook_2026",
+        "filename": "Employee_Handbook_2026.docx",
+        "source_type": "word",
+        "chunk_index": 0,
+        "text": "Sunrise Medical Center Employee Handbook\nSunrise Medical Center\nDocument Title: Sunrise Medical Center Employee Handbook\nDocument ID: SMC-HR-001\nDepartment: Human Resources\nEffective Date: January 1, 2024\nLast Revised: January 1, 2026\nPolicy Owner: Chief Human Resources Officer, Yolanda Pierce\nDistribution: All Sunrise Medical Center Staff\n__________________________________________________________________________________________\n1. Welcome to Sunrise Medical Center\nWelcome to Sunrise Medical Center. For over four decades, our hospital has served the community with a commitment to compassionate, high-quality care. This handbook describes the policies, benefits, and expectations that apply to every employee, from bedside clinical staff to administrative and support teams"
+      },
+      {
+        "rank": 2,
+        "score": 0.2564694285392761,
+        "chunk_id": "New_Employee_Orientation_Welcome_Message::recursive::0",
+        "doc_id": "New_Employee_Orientation_Welcome_Message",
+        "filename": "New_Employee_Orientation_Welcome_Message.mp3",
+        "source_type": "audio_transcript",
+        "chunk_index": 0,
+        "text": "Welcome to Sunrise Medical Center. My name is Yolanda Pierce, Chief Human Resources Officer, and on behalf of our entire leadership team, I want to personally welcome you to our hospital family. For over four decades, Sunrise Medical Center has served as community with compassion, clinical excellence, and an unwavering commitment to patient safety. Over the next two days, you will complete orientation covering our mission and values. HIPA is privacy training, patient safety goals, infection prevention, and fire and emergency preparedness. Please keep your identification bash visible at all times, and do not hesitate to ask questions. We are glad you are here, and we look forward to supporting your success in Sunrise Medical Center."
+      },
+      {
+        "rank": 3,
+        "score": 0.2473040074110031,
+        "chunk_id": "Fire_Evacuation_Quick_Guide::recursive::0",
+        "doc_id": "Fire_Evacuation_Quick_Guide",
+        "filename": "Fire_Evacuation_Quick_Guide.txt",
+        "source_type": "text",
+        "chunk_index": 0,
+        "text": "==============================================================================\nSUNRISE MEDICAL CENTER\nFIRE SAFETY AND EVACUATION QUICK GUIDE\n==============================================================================\nSunrise Medical Center\nDocument Title: Fire Safety and Evacuation Quick Guide\nDocument ID: SMC-NOTE-055\nDepartment: Facilities / Safety Office\nEffective Date: N/A (posted reference)\nLast Revised: June 2026\nPolicy Owner: Hospital Safety Officer\nDistribution: All Sunrise Medical Center Staff\n------------------------------------------------------------------------------"
+      },
+      {
+        "rank": 4,
+        "score": 0.21149858832359314,
+        "chunk_id": "Staff_ID_Badge_Sample::recursive::0",
+        "doc_id": "Staff_ID_Badge_Sample",
+        "filename": "Staff_ID_Badge_Sample.png",
+        "source_type": "image_ocr",
+        "chunk_index": 0,
+        "text": "SUNRISE MEDICAL CENTER\n\nSecurity Department — Reference SMC-SEC-F06\n\nStaff Identification Badge — Sample Layout\n\ncup\n\nSUNRISE MEDICAL CENTER\n\nSAMPLE, J. (TRAINING)\nRegistered Nurse\n\nDept: Emergency\nBadge ID: SMC-000000\n\n[ BARCODE / PROX ACCESS CHIP J\n\nBadges must be wom visibly above the waist at all times on hospital premises. Report ost or stolen badges"
+      },
+      {
+        "rank": 5,
+        "score": 0.19456452131271362,
+        "chunk_id": "Sepsis_Recognition_and_Treatment_Protocol::recursive::0",
+        "doc_id": "Sepsis_Recognition_and_Treatment_Protocol",
+        "filename": "Sepsis_Recognition_and_Treatment_Protocol.pdf",
+        "source_type": "pdf",
+        "chunk_index": 0,
+        "text": "Sepsis Recognition and Early Treatment Protocol\nSunrise Medical Center\nDocument Title: Sepsis Recognition and Early Treatment Protocol\nDocument ID: SMC-ED-027\nDepartment: Emergency Department / Infectious Disease\nEffective Date: September 15, 2022\nLast Revised: April 4, 2025\nPolicy Owner: Sepsis Program Coordinator, Denise Falk, RN\nDistribution: All Sunrise Medical Center Staff\n1. Purpose\nSepsis is a leading cause of preventable in-hospital mortality. This protocol establishes the screening tools,\nescalation pathway, and time-bound treatment bundle used at Sunrise Medical Center to identify sepsis\nearly and initiate treatment before irreversible organ damage occurs.\n2"
+      },
+      {
+        "rank": 6,
+        "score": 0.19085277616977692,
+        "chunk_id": "IT_Helpdesk_Ticket_Submission_Notes::recursive::0",
+        "doc_id": "IT_Helpdesk_Ticket_Submission_Notes",
+        "filename": "IT_Helpdesk_Ticket_Submission_Notes.txt",
+        "source_type": "text",
+        "chunk_index": 0,
+        "text": "==============================================================================\nSUNRISE MEDICAL CENTER\nIT HELPDESK - HOW TO SUBMIT A TICKET (STAFF QUICK NOTES)\n==============================================================================\nSunrise Medical Center\nDocument Title: IT Helpdesk - How to Submit a Ticket (Staff Quick Notes)\nDocument ID: SMC-NOTE-142\nDepartment: Information Technology\nEffective Date: N/A (quick reference)\nLast Revised: May 2026\nPolicy Owner: IT Service Desk\nDistribution: All Sunrise Medical Center Staff\n------------------------------------------------------------------------------"
+      },
+      {
+        "rank": 7,
+        "score": 0.18954777717590332,
+        "chunk_id": "Stroke_Protocol_Emergency_Department::recursive::0",
+        "doc_id": "Stroke_Protocol_Emergency_Department",
+        "filename": "Stroke_Protocol_Emergency_Department.pdf",
+        "source_type": "pdf",
+        "chunk_index": 0,
+        "text": "Suspected Acute Stroke Protocol — Emergency\n Department\nSunrise Medical Center\nDocument Title: Suspected Acute Stroke Protocol — Emergency Department\nDocument ID: SMC-ED-014\nDepartment: Emergency Department / Neurology\nEffective Date: March 3, 2023\nLast Revised: February 10, 2026\nPolicy Owner: Director of Emergency Medicine, Dr. Anita Reyes\nDistribution: All Sunrise Medical Center Staff\n1. Purpose\nThis protocol establishes the standardized process for the identification, triage, imaging, and treatment of\npatients presenting to the Sunrise Medical Center Emergency Department (ED) with signs and symptoms of\nan acute stroke"
+      },
+      {
+        "rank": 8,
+        "score": 0.18782435357570648,
+        "chunk_id": "HIPAA_Compliance_Manual::recursive::6",
+        "doc_id": "HIPAA_Compliance_Manual",
+        "filename": "HIPAA_Compliance_Manual.pdf",
+        "source_type": "pdf",
+        "chunk_index": 6,
+        "text": "Workforce Training\nAll new employees, contractors, and volunteers complete HIPAA privacy and security training before\nreceiving system access, with annual refresher training mandatory for continued access. Training\ncompletion is tracked in the Learning Management System and audited quarterly by Human Resources and\nCompliance.\n8. Sanctions for Non-Compliance\nViolation Category\nExample\nTypical Sanction\nUnintentional/first occurrence\nAccessing a coworker's record out of curiosity, self-reported\nFormal counseling, retraining\nRepeated or negligent\nLeaving PHI visible on unattended workstation repeatedly\nWritten warning, suspension\nWillful/malicious\nSelling or disclosing PHI for personal gain\nTermination, referral to law enforcement\n9"
+      },
+      {
+        "rank": 9,
+        "score": 0.1866033673286438,
+        "chunk_id": "Emergency_Contact_List::recursive::0",
+        "doc_id": "Emergency_Contact_List",
+        "filename": "Emergency_Contact_List.txt",
+        "source_type": "text",
+        "chunk_index": 0,
+        "text": "==============================================================================\nSUNRISE MEDICAL CENTER\nHOSPITAL-WIDE EMERGENCY AND DEPARTMENT CONTACT LIST\n==============================================================================\nSunrise Medical Center\nDocument Title: Hospital-Wide Emergency and Department Contact List\nDocument ID: SMC-NOTE-003\nDepartment: Administration\nEffective Date: N/A (living document)\nLast Revised: July 2026\nPolicy Owner: Hospital Administration\nDistribution: All Sunrise Medical Center Staff\n------------------------------------------------------------------------------"
+      },
+      {
+        "rank": 10,
+        "score": 0.1739153265953064,
+        "chunk_id": "Stroke_Recognition_FAST_Training_Video::recursive::0",
+        "doc_id": "Stroke_Recognition_FAST_Training_Video",
+        "filename": "Stroke_Recognition_FAST_Training_Video.mp4",
+        "source_type": "video_transcript",
+        "chunk_index": 0,
+        "text": "suspected stroke recognition training. Remember fast. F. Face-rupping. Ask the patient to smile and check if one side drifts. Make our weakness. Ask the patient to raise both arms and check for drift. F. Speech difficulty. Ask the patient to repeat a phrase and listen for swearing. T. Time to call a code stroke. If any sign is present, note the time and activate a code stroke immediately. It's immediate right."
+      }
+    ],
+    "hybrid_search": [
+      {
+        "rank": 1,
+        "score": 0.2875901666425523,
+        "chunk_id": "New_Employee_Orientation_Welcome_Message::recursive::0",
+        "doc_id": "New_Employee_Orientation_Welcome_Message",
+        "filename": "New_Employee_Orientation_Welcome_Message.mp3",
+        "source_type": "audio_transcript",
+        "chunk_index": 0,
+        "text": "Welcome to Sunrise Medical Center. My name is Yolanda Pierce, Chief Human Resources Officer, and on behalf of our entire leadership team, I want to personally welcome you to our hospital family. For over four decades, Sunrise Medical Center has served as community with compassion, clinical excellence, and an unwavering commitment to patient safety. Over the next two days, you will complete orientation covering our mission and values. HIPA is privacy training, patient safety goals, infection prevention, and fire and emergency preparedness. Please keep your identification bash visible at all times, and do not hesitate to ask questions. We are glad you are here, and we look forward to supporting your success in Sunrise Medical Center.",
+        "vector_score": 0.2564694285392761,
+        "keyword_score": 0.38095238095238093
+      },
+      {
+        "rank": 2,
+        "score": 0.26887134143284386,
+        "chunk_id": "Employee_Handbook_2026::recursive::0",
+        "doc_id": "Employee_Handbook_2026",
+        "filename": "Employee_Handbook_2026.docx",
+        "source_type": "word",
+        "chunk_index": 0,
+        "text": "Sunrise Medical Center Employee Handbook\nSunrise Medical Center\nDocument Title: Sunrise Medical Center Employee Handbook\nDocument ID: SMC-HR-001\nDepartment: Human Resources\nEffective Date: January 1, 2024\nLast Revised: January 1, 2026\nPolicy Owner: Chief Human Resources Officer, Yolanda Pierce\nDistribution: All Sunrise Medical Center Staff\n__________________________________________________________________________________________\n1. Welcome to Sunrise Medical Center\nWelcome to Sunrise Medical Center. For over four decades, our hospital has served the community with a commitment to compassionate, high-quality care. This handbook describes the policies, benefits, and expectations that apply to every employee, from bedside clinical staff to administrative and support teams",
+        "vector_score": 0.2632570266723633,
+        "keyword_score": 0.2857142857142857
+      },
+      {
+        "rank": 3,
+        "score": 0.26881133889158565,
+        "chunk_id": "Fire_Evacuation_Quick_Guide::recursive::0",
+        "doc_id": "Fire_Evacuation_Quick_Guide",
+        "filename": "Fire_Evacuation_Quick_Guide.txt",
+        "source_type": "text",
+        "chunk_index": 0,
+        "text": "==============================================================================\nSUNRISE MEDICAL CENTER\nFIRE SAFETY AND EVACUATION QUICK GUIDE\n==============================================================================\nSunrise Medical Center\nDocument Title: Fire Safety and Evacuation Quick Guide\nDocument ID: SMC-NOTE-055\nDepartment: Facilities / Safety Office\nEffective Date: N/A (posted reference)\nLast Revised: June 2026\nPolicy Owner: Hospital Safety Officer\nDistribution: All Sunrise Medical Center Staff\n------------------------------------------------------------------------------",
+        "vector_score": 0.2473040074110031,
+        "keyword_score": 0.3333333333333333
+      },
+      {
+        "rank": 4,
+        "score": 0.22925672431786853,
+        "chunk_id": "Sepsis_Recognition_and_Treatment_Protocol::recursive::0",
+        "doc_id": "Sepsis_Recognition_and_Treatment_Protocol",
+        "filename": "Sepsis_Recognition_and_Treatment_Protocol.pdf",
+        "source_type": "pdf",
+        "chunk_index": 0,
+        "text": "Sepsis Recognition and Early Treatment Protocol\nSunrise Medical Center\nDocument Title: Sepsis Recognition and Early Treatment Protocol\nDocument ID: SMC-ED-027\nDepartment: Emergency Department / Infectious Disease\nEffective Date: September 15, 2022\nLast Revised: April 4, 2025\nPolicy Owner: Sepsis Program Coordinator, Denise Falk, RN\nDistribution: All Sunrise Medical Center Staff\n1. Purpose\nSepsis is a leading cause of preventable in-hospital mortality. This protocol establishes the screening tools,\nescalation pathway, and time-bound treatment bundle used at Sunrise Medical Center to identify sepsis\nearly and initiate treatment before irreversible organ damage occurs.\n2",
+        "vector_score": 0.19456452131271362,
+        "keyword_score": 0.3333333333333333
+      },
+      {
+        "rank": 5,
+        "score": 0.2254941662152608,
+        "chunk_id": "Stroke_Protocol_Emergency_Department::recursive::0",
+        "doc_id": "Stroke_Protocol_Emergency_Department",
+        "filename": "Stroke_Protocol_Emergency_Department.pdf",
+        "source_type": "pdf",
+        "chunk_index": 0,
+        "text": "Suspected Acute Stroke Protocol — Emergency\n Department\nSunrise Medical Center\nDocument Title: Suspected Acute Stroke Protocol — Emergency Department\nDocument ID: SMC-ED-014\nDepartment: Emergency Department / Neurology\nEffective Date: March 3, 2023\nLast Revised: February 10, 2026\nPolicy Owner: Director of Emergency Medicine, Dr. Anita Reyes\nDistribution: All Sunrise Medical Center Staff\n1. Purpose\nThis protocol establishes the standardized process for the identification, triage, imaging, and treatment of\npatients presenting to the Sunrise Medical Center Emergency Department (ED) with signs and symptoms of\nan acute stroke",
+        "vector_score": 0.18954777717590332,
+        "keyword_score": 0.3333333333333333
+      },
+      {
+        "rank": 6,
+        "score": 0.2181477507665044,
+        "chunk_id": "Staff_ID_Badge_Sample::recursive::0",
+        "doc_id": "Staff_ID_Badge_Sample",
+        "filename": "Staff_ID_Badge_Sample.png",
+        "source_type": "image_ocr",
+        "chunk_index": 0,
+        "text": "SUNRISE MEDICAL CENTER\n\nSecurity Department — Reference SMC-SEC-F06\n\nStaff Identification Badge — Sample Layout\n\ncup\n\nSUNRISE MEDICAL CENTER\n\nSAMPLE, J. (TRAINING)\nRegistered Nurse\n\nDept: Emergency\nBadge ID: SMC-000000\n\n[ BARCODE / PROX ACCESS CHIP J\n\nBadges must be wom visibly above the waist at all times on hospital premises. Report ost or stolen badges",
+        "vector_score": 0.21149858832359314,
+        "keyword_score": 0.23809523809523808
+      },
+      {
+        "rank": 7,
+        "score": 0.20266339165114222,
+        "chunk_id": "IT_Helpdesk_Ticket_Submission_Notes::recursive::0",
+        "doc_id": "IT_Helpdesk_Ticket_Submission_Notes",
+        "filename": "IT_Helpdesk_Ticket_Submission_Notes.txt",
+        "source_type": "text",
+        "chunk_index": 0,
+        "text": "==============================================================================\nSUNRISE MEDICAL CENTER\nIT HELPDESK - HOW TO SUBMIT A TICKET (STAFF QUICK NOTES)\n==============================================================================\nSunrise Medical Center\nDocument Title: IT Helpdesk - How to Submit a Ticket (Staff Quick Notes)\nDocument ID: SMC-NOTE-142\nDepartment: Information Technology\nEffective Date: N/A (quick reference)\nLast Revised: May 2026\nPolicy Owner: IT Service Desk\nDistribution: All Sunrise Medical Center Staff\n------------------------------------------------------------------------------",
+        "vector_score": 0.19085277616977692,
+        "keyword_score": 0.23809523809523808
+      },
+      {
+        "rank": 8,
+        "score": 0.20030863707264263,
+        "chunk_id": "Stroke_Protocol_Emergency_Department::recursive::9",
+        "doc_id": "Stroke_Protocol_Emergency_Department",
+        "filename": "Stroke_Protocol_Emergency_Department.pdf",
+        "source_type": "pdf",
+        "chunk_index": 9,
+        "text": "Patients with confirmed large-vessel occlusion on CT Angiography who present within 24 hours of last\nknown well time (per extended-window imaging criteria) should be evaluated for transfer to the affiliated\nNeurointerventional Center at Riverbend Regional, as Sunrise Medical Center does not currently perform\nmechanical thrombectomy on site.\nThe transfer coordinator must be notified simultaneously with the neurology consult to avoid delay; transport\narrangements should never wait for tPA infusion to complete when thrombectomy is indicated.\n8. Documentation Requirements\nAll Code Stroke events must be documented on the Stroke Core Measures worksheet, including every\ntimestamp from EMS dispatch through disposition",
+        "vector_score": 0.15596707165241241,
+        "keyword_score": 0.3333333333333333
+      },
+      {
+        "rank": 9,
+        "score": 0.19947633502029238,
+        "chunk_id": "Emergency_Contact_List::recursive::0",
+        "doc_id": "Emergency_Contact_List",
+        "filename": "Emergency_Contact_List.txt",
+        "source_type": "text",
+        "chunk_index": 0,
+        "text": "==============================================================================\nSUNRISE MEDICAL CENTER\nHOSPITAL-WIDE EMERGENCY AND DEPARTMENT CONTACT LIST\n==============================================================================\nSunrise Medical Center\nDocument Title: Hospital-Wide Emergency and Department Contact List\nDocument ID: SMC-NOTE-003\nDepartment: Administration\nEffective Date: N/A (living document)\nLast Revised: July 2026\nPolicy Owner: Hospital Administration\nDistribution: All Sunrise Medical Center Staff\n------------------------------------------------------------------------------",
+        "vector_score": 0.1866033673286438,
+        "keyword_score": 0.23809523809523808
+      },
+      {
+        "rank": 10,
+        "score": 0.18996030447028933,
+        "chunk_id": "Stroke_Recognition_FAST_Training_Video::recursive::0",
+        "doc_id": "Stroke_Recognition_FAST_Training_Video",
+        "filename": "Stroke_Recognition_FAST_Training_Video.mp4",
+        "source_type": "video_transcript",
+        "chunk_index": 0,
+        "text": "suspected stroke recognition training. Remember fast. F. Face-rupping. Ask the patient to smile and check if one side drifts. Make our weakness. Ask the patient to raise both arms and check for drift. F. Speech difficulty. Ask the patient to repeat a phrase and listen for swearing. T. Time to call a code stroke. If any sign is present, note the time and activate a code stroke immediately. It's immediate right.",
+        "vector_score": 0.1739153265953064,
+        "keyword_score": 0.23809523809523808
+      }
+    ]
+  }
+]

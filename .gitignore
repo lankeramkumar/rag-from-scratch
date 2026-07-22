@@ -1,0 +1,22 @@
+# Secrets -- never commit API keys
+.env
+
+# Python
+__pycache__/
+*.pyc
+scripts/__pycache__/
+
+# Claude Code local session/tooling config -- not project content
+.claude/
+
+# Regenerable pipeline build artifacts (run scripts/01-04 to rebuild).
+# The small, self-contained showcase outputs (retrieval/augmentation/
+# generation JSON, embedding-space visualizations) are intentionally
+# kept out of these ignore rules so they still get committed.
+output/01_extracted_corpus.json
+output/02_chunks*.json
+output/03_embedder.pkl
+output/03_embeddings.npy
+output/03_embeddings_meta.json
+output/04_vector_index.npy
+output/04_vector_index_meta.pkl

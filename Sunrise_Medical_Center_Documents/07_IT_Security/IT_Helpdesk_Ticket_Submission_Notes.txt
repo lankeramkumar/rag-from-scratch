@@ -1,0 +1,99 @@
+==============================================================================
+SUNRISE MEDICAL CENTER
+IT HELPDESK - HOW TO SUBMIT A TICKET (STAFF QUICK NOTES)
+==============================================================================
+Sunrise Medical Center
+Document Title: IT Helpdesk - How to Submit a Ticket (Staff Quick Notes)
+Document ID: SMC-NOTE-142
+Department: Information Technology
+Effective Date: N/A (quick reference)
+Last Revised: May 2026
+Policy Owner: IT Service Desk
+Distribution: All Sunrise Medical Center Staff
+------------------------------------------------------------------------------
+
+THREE WAYS TO REACH THE HELPDESK
+--------------------------------
+  * Self-service portal: helpdesk.sunrisemedical.internal (fastest for non-urgent issues, tracks your ticket number)
+  * Phone: ext 6000, available 24/7 for urgent/system-down issues
+  * Walk-up: IT Service Desk window, Ground Floor near the cafeteria, 7am-6pm weekdays
+
+WHAT COUNTS AS 'URGENT' (call, don't submit a web ticket)
+---------------------------------------------------------
+  * EHR system completely down or unusable on your unit
+  * Cannot access medication dispensing cabinet due to system/network issue
+  * Suspected security incident - phishing click, malware pop-up, lost hospital laptop or badge
+  * Any issue actively blocking direct patient care
+
+INFO TO HAVE READY BEFORE YOU CALL OR SUBMIT
+--------------------------------------------
+  1. Your name, department/unit, and a callback extension
+  2. Asset tag number on the device (small barcode sticker, usually on the bottom or back)
+  3. Exact error message - screenshot if possible, or write it down word for word
+  4. What you were doing right before the issue started
+  5. Whether other people on your unit are having the same problem (helps IT tell if it's just you or unit-wide)
+
+TICKET PRIORITY LEVELS AND RESPONSE TARGETS
+-------------------------------------------
+  | Priority | Example | Target Response
+  | P1 - Critical | EHR down hospital-wide, network outage | 15 minutes
+  | P2 - High | Single unit system down, printer down in OR | 1 hour
+  | P3 - Medium | Individual workstation issue, slow performance | 4 business hours
+  | P4 - Low | Software request, non-urgent access request | 2 business days
+
+COMMON SELF-SERVICE FIXES BEFORE YOU CALL
+-----------------------------------------
+  * Password reset: use the self-service portal link on the login screen, no need to call for this
+  * Printer not printing: check it's powered on and has paper before submitting a ticket
+  * Slow computer: log off and back on, this clears most temporary slowdowns
+  * Can't find a shared drive folder: confirm with your manager you actually have access rights first
+
+AFTER YOU SUBMIT
+----------------
+You'll get an email/portal confirmation with a ticket number - save this, you'll need it for any follow-up. IT will update the ticket status as they work it; you can check status anytime in the portal without having to call back.
+
+If a P1 or P2 ticket hasn't been addressed within its target window, call ext 6000 and reference your ticket number to escalate.
+
+
+REPORTING SUSPICIOUS EMAILS
+---------------------------
+Use the 'Report Phishing' button in the email toolbar - this automatically routes to Security and removes the email from other inboxes if it's a confirmed campaign. Do not forward suspicious emails manually, and do not click any links to 'test' if they're real.
+
+
+FREQUENTLY ASKED QUESTIONS
+--------------------------
+  * Q: Can I submit a ticket on behalf of a coworker? A: Yes, but include their name, extension, and device asset tag so IT can reach the right person directly.
+  * Q: What if my ticket is marked 'Resolved' but the issue isn't actually fixed? A: Reopen the same ticket within 7 days rather than submitting a new one - this keeps the full troubleshooting history together for the technician.
+  * Q: Does the Helpdesk support personal devices? A: Only for hospital email/MDM enrollment issues; personal device hardware problems are not supported by the Helpdesk.
+  * Q: How do I request new software be installed? A: Submit a P4 request through the portal with business justification; most software requires manager and Information Security approval before installation.
+
+AFTER-HOURS NOTES
+-----------------
+Overnight and weekend Helpdesk coverage is reduced staffing but still 24/7 for P1/P2 issues - expect P3/P4 tickets submitted overnight to be picked up starting the next business morning.
+
+If ext 6000 goes to voicemail during a P1 event (which should be rare), leave a detailed message and then contact the House Supervisor at ext 3000, who has an alternate IT on-call contact method.
+
+
+WORKED EXAMPLE - REPORTING A SUSPECTED PHISHING EMAIL
+-----------------------------------------------------
+9:14 AM - Staff member receives an email claiming to be from 'HR Payroll' asking them to click a link and re-enter their login credentials to 'avoid a delay in direct deposit.'
+
+9:15 AM - Staff member does not click the link. They notice the sender's actual email domain doesn't match the hospital's domain when they hover over it.
+
+9:16 AM - Staff member clicks the 'Report Phishing' button in the email toolbar rather than forwarding it manually or deleting it outright.
+
+9:17 AM - The report automatically routes to IT Security, who begin checking if the same email was sent to other staff hospital-wide.
+
+9:40 AM - IT Security confirms it was a mass phishing campaign, blocks the sender domain hospital-wide, and pulls the message from any inbox that hadn't yet opened it.
+
+This is the intended workflow - the staff member didn't need to know it was part of a bigger campaign, just needed to correctly not click and correctly report it.
+
+
+ESCALATION CONTACTS BEYOND THE HELPDESK
+---------------------------------------
+If a P1 ticket is not acknowledged within 15 minutes during business hours, contact the IT Service Desk Manager directly at ext 6010. Outside business hours, contact the House Supervisor at ext 3000, who maintains a separate after-hours IT on-call escalation contact not published on this sheet for security reasons.
+
+For anything involving a clinical system tied directly to patient safety (EHR, medication dispensing, monitors), always mention 'patient care impact' explicitly when you call, even if it seems obvious - this ensures the ticket is coded with the correct priority level in the tracking system rather than being triaged as a general IT issue.
+
+Software or hardware purchase requests are handled separately from the Helpdesk - use the Capital/Non-Capital Purchase Request form on the intranet, which routes through your department manager and Finance rather than IT Service Desk.
+

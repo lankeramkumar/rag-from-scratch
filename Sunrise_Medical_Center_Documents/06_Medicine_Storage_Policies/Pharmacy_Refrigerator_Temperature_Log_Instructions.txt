@@ -1,0 +1,107 @@
+==============================================================================
+SUNRISE MEDICAL CENTER
+PHARMACY REFRIGERATOR AND FREEZER TEMPERATURE LOG - INSTRUCTIONS
+==============================================================================
+Sunrise Medical Center
+Document Title: Pharmacy Refrigerator and Freezer Temperature Log - Instructions
+Document ID: SMC-NOTE-088
+Department: Pharmacy
+Effective Date: N/A (working instructions)
+Last Revised: April 2026
+Policy Owner: Pharmacy Operations Supervisor
+Distribution: All Sunrise Medical Center Staff
+------------------------------------------------------------------------------
+
+WHY THIS MATTERS
+----------------
+Vaccines, insulin, and many biologics lose potency permanently if temperature excursions aren't caught fast. A missed log entry is treated the same as an actual excursion by our accreditation auditors - so log EVERY check, every time, even if the temp is fine.
+
+
+WHO LOGS AND WHEN
+-----------------
+  * Day shift: check and log at 0700, 1100, 1500
+  * Evening shift: check and log at 1900, 2300
+  * Night shift: check and log at 0300
+  * Automated digital logger records continuously as backup - manual log is still required per policy
+
+ACCEPTABLE RANGES
+-----------------
+  | Unit | Acceptable Range | Action if Out of Range
+  | Standard medication refrigerator | 2C to 8C (36F to 46F) | Quarantine contents, call Pharmacy Supervisor
+  | Vaccine refrigerator | 2C to 8C (36F to 46F) | Do NOT use vaccines, tag 'DO NOT USE', call Supervisor immediately
+  | Medication freezer | -25C to -15C (-13F to 5F) | Quarantine, call Supervisor immediately
+  | Blood bank refrigerator | 1C to 6C | Notify Blood Bank tech directly, do not handle blood products yourself
+
+HOW TO LOG (paper backup form, if digital system is down)
+---------------------------------------------------------
+  1. Open the refrigerator/freezer log binder kept on top of each unit
+  2. Read the digital display thermometer, not the analog dial (dial is backup only)
+  3. Write date, time, temp, and your initials in the next open row
+  4. If temp is out of range, circle it in RED and immediately notify Pharmacy Supervisor - do not wait until end of shift
+  5. Complete a Temperature Excursion Form (yellow pad, top drawer) for any out-of-range reading
+
+IF AN EXCURSION HAPPENS
+-----------------------
+1. Do NOT discard or use any medication in the unit - Pharmacy must assess viability first based on manufacturer stability data.
+
+2. Move contents to the backup refrigerator (Unit B, Pharmacy back room) ONLY if instructed by the on-call Pharmacist.
+
+3. Tag the affected shelf/bin 'QUARANTINE - DO NOT DISPENSE' with the date and time.
+
+4. Complete the Temperature Excursion Form and route to the Pharmacy Operations Supervisor within the same shift.
+
+5. Supervisor logs outcome (returned to use / discarded / vendor consult) within 24 hours.
+
+
+COMMON MISTAKES TO AVOID
+------------------------
+  * Don't log a temperature you didn't actually read this round - always check live, never copy the last entry
+  * Don't prop the refrigerator door open while restocking - even 2 minutes can shift the internal temp reading
+  * Don't store food, drinks, or specimens in medication refrigerators - ever
+  * Don't ignore a 'battery low' alert on the digital logger - replace immediately, a dead logger = no data if excursion happens overnight
+
+CONTACTS
+--------
+  | Contact | Extension / Method
+  | Pharmacy Operations Supervisor (business hours) | ext 2105
+  | Pharmacist on-call (after hours) | pager 2101
+  | Biomedical Engineering (equipment malfunction) | ext 4150
+  | Vaccine manufacturer stability hotline (see binder insert) | see individual product insert
+
+FREQUENTLY ASKED QUESTIONS
+--------------------------
+  * Q: What if I forget to log a scheduled check? A: Log it as soon as you remember and note the actual time you checked, not the scheduled time. Never backfill a temperature you didn't actually observe.
+  * Q: Who is authorized to make the 'return to use' decision after an excursion? A: Only a licensed pharmacist, referencing manufacturer stability data - technicians and nursing staff cannot clear a quarantined medication.
+  * Q: What if the digital logger and the analog dial disagree? A: Trust the digital logger for logging purposes, but report the discrepancy to Biomedical Engineering as the analog dial may indicate a sensor problem.
+  * Q: Are vaccines transported between units ever? A: Only in a validated cold-chain transport container, tracked with its own mini temperature logger, and only by Pharmacy staff.
+
+NEW STAFF ORIENTATION NOTE
+--------------------------
+If you are new to a unit with a medication refrigerator, ask the Pharmacy liaison to walk you through the log binder location and the digital logger app during your first week. This is a five-minute orientation and is required before you're added to the checking schedule.
+
+The paper backup log is only used when the digital system is confirmed down by IT or Pharmacy - do not switch to paper logging on your own judgment alone during a normal shift.
+
+
+WORKED EXAMPLE - HANDLING AN OVERNIGHT EXCURSION
+------------------------------------------------
+0300 - Night shift tech does the scheduled check and finds the vaccine refrigerator reading 11C, above the 8C limit. The digital logger shows it climbed slowly starting around 0130.
+
+0301 - Tech immediately tags the shelf 'DO NOT USE' with date/time and does not discard anything or move vaccines to another unit without instruction.
+
+0302 - Tech pages the on-call Pharmacist (pager 2101) and describes the excursion: how far out of range, how long, and whether the door was possibly left ajar (it was not, per the log history).
+
+0310 - On-call Pharmacist reviews the manufacturer stability data remotely and instructs the tech to move the affected vaccines to the backup unit in the Pharmacy back room, confirmed still within cold-chain the whole time.
+
+0315 - Tech completes the Temperature Excursion Form, documents the pharmacist's instruction and name, and leaves it in the Supervisor's inbox for morning review.
+
+0700 - Day shift Pharmacy Operations Supervisor reviews the form, contacts the manufacturer for a final viability determination, and logs the outcome (in this case, the vaccines were cleared for use since the excursion was brief and within the manufacturer's documented tolerance).
+
+
+BACKUP UNIT AND ROTATION NOTES
+------------------------------
+Each Pharmacy location maintains at least one backup refrigerator and one backup freezer, tested monthly by Biomedical Engineering to confirm they hold range even though they are not in routine daily use. Backup units are logged on the same schedule as primary units whenever they are actively holding quarantined or transferred stock.
+
+Battery backup power for all Pharmacy cold storage is tested quarterly during the hospital's generator test; any unit that does not maintain temperature during the test is reported to Facilities and Pharmacy Operations immediately, and stock is proactively moved to a verified unit before the next scheduled generator test if a prior issue was found.
+
+New Pharmacy staff shadow an experienced tech through at least three full temperature check rounds, including at least one simulated excursion walkthrough using the training binder, before being added independently to the checking schedule.
+

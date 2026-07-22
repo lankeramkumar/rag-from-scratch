@@ -1,0 +1,18 @@
+[
+  {
+    "query": "What should a nurse do if a medication refrigerator's temperature goes out of range?",
+    "system_prompt": "You are a helpful assistant that answers questions using ONLY the provided context. Follow these rules:\n\n1. Base your answer strictly on the information in the CONTEXT section below.\n2. If the context does not contain enough information to answer the question, say so explicitly rather than guessing or using outside knowledge.\n3. Cite your sources inline using the bracketed reference numbers, e.g. [1], that correspond to the CONTEXT entries.\n4. Be concise and directly answer what was asked.",
+    "user_prompt": "CONTEXT:\n[1] (source: Pharmacy_Refrigerator_Temperature_Log_Instructions.txt, chunk 5)\n==============================================================================\nSUNRISE MEDICAL CENTER\nPHARMACY REFRIGERATOR AND FREEZER TEMPERATURE LOG - INSTRUCTIONS\n==============================================================================\nSunrise Medical Center\nDocument Title: Pharmacy Refrigerator and Freezer Temperature Log - Instructions\nDocument ID: SMC-NOTE-088\nDepartment: Pharmacy\nEffective Date: N/A (working instructions)\nLast Revised: April 2026\nPolicy Owner: Pharmacy Operations Supervisor\nDistribution: All Sunrise Medical Center Staff\n------------------------------------------------------------------------------\n\nWHY THIS MATTERS\n----------------\nVaccines, insulin, and many biologics lose potency permanently if temperature excursions aren't caught fast. A missed log entry is treated the same as an actual excursion by our accreditation auditors - so log EVERY check, every time, even if the temp is fine.\n\nWHO LOGS AND WHEN\n-----------------\n  * Day shift: check and log at 0700, 1100, 1500\n  * Evening shift: check and log at 1900, 2300\n  * Night shift: check and log at 0300\n  * Automated digital logger records continuously as backup - manual log is still required per policy\n\nACCEPTABLE RANGES\n-----------------\n  | Unit | Acceptable Range | Action if Out of Range\n  | Standard medication refrigerator | 2C to 8C (36F to 46F) | Quarantine contents, call Pharmacy Supervisor\n  | Vaccine refrigerator | 2C to 8C (36F to 46F) | Do NOT use vaccines, tag 'DO NOT USE', call Supervisor immediately\n  | Medication freezer | -25C to -15C (-13F to 5F) | Quarantine, call Supervisor immediately\n  | Blood bank refrigerator | 1C to 6C | Notify Blood Bank tech directly, do not handle blood products yourself\n\nHOW TO LOG (paper backup form, if digital system is down)\n---------------------------------------------------------\n  1. Open the refrigerator/freezer log binder kept on top of each unit\n  2. Read the digital display thermometer, not the analog dial (dial is backup only)\n  3. Write date, time, temp, and your initials in the next open row\n  4. If temp is out of range, circle it in RED and immediately notify Pharmacy Supervisor - do not wait until end of shift\n  5. Complete a Temperature Excursion Form (yellow pad, top drawer) for any out-of-range reading\n\nQUESTION:\nWhat should a nurse do if a medication refrigerator's temperature goes out of range?\n\nAnswer the question using only the context above, with inline citations like [1].",
+    "num_chunks_retrieved": 4,
+    "num_chunks_after_dedup": 3,
+    "num_chunks_used": 1,
+    "context_char_count": 2366,
+    "sources": [
+      {
+        "ref": 1,
+        "filename": "Pharmacy_Refrigerator_Temperature_Log_Instructions.txt",
+        "chunk_index": 5
+      }
+    ]
+  }
+]

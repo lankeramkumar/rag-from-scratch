@@ -1,0 +1,20 @@
+# Core -- required for the pipeline (01-09) to run end to end.
+numpy
+scikit-learn
+python-dotenv
+pypdf
+python-docx
+pillow
+pytesseract          # wraps the Tesseract OCR binary -- install it separately (see USER_MANUAL.md)
+faster-whisper        # transcribes audio/video; downloads the 'tiny.en' model on first use
+anthropic             # step 07: real Claude generation (falls back to a mock answer without an API key)
+matplotlib             # steps 08/09: visualizations
+
+# Used only by scripts/00_generate_sample_documents.py, which regenerates
+# the sample corpus from scratch (not needed to run the pipeline itself).
+reportlab
+
+# Optional upgrades over the built-in TF-IDF embedding fallback (see
+# embedding_backends.py) -- the pipeline runs without either of these.
+# sentence-transformers   # local, ~1-2GB model download, no API key needed
+# voyageai                # hosted API, set VOYAGE_API_KEY in .env to use it

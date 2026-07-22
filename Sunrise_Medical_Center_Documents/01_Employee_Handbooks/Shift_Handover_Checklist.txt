@@ -1,0 +1,91 @@
+==============================================================================
+SUNRISE MEDICAL CENTER
+NURSING SHIFT HANDOVER (SBAR) CHECKLIST
+==============================================================================
+Sunrise Medical Center
+Document Title: Nursing Shift Handover (SBAR) Checklist
+Document ID: SMC-NOTE-076
+Department: Nursing Education
+Effective Date: N/A (working checklist)
+Last Revised: March 2026
+Policy Owner: Nursing Education Department
+Distribution: All Sunrise Medical Center Staff
+------------------------------------------------------------------------------
+
+WHY SBAR HANDOVER
+-----------------
+Missed or vague handoffs are one of the top causes of preventable adverse events. Use SBAR (Situation, Background, Assessment, Recommendation) for every patient, every handoff, no shortcuts even when 'nothing changed.'
+
+
+S - SITUATION
+-------------
+  * Patient name, age, room number, code status
+  * Admitting diagnosis and reason for current hospitalization
+  * Any change in condition since last handoff
+
+B - BACKGROUND
+--------------
+  * Relevant medical history and allergies
+  * Current isolation precautions, if any
+  * Recent procedures, labs pending, or imaging pending
+  * Code status and any advance directive on file
+
+A - ASSESSMENT
+--------------
+  * Current vital signs and trend (improving/worsening/stable)
+  * Pain level and last pain medication time
+  * Lines, tubes, drains - type, location, day of insertion
+  * Mental status / fall risk / skin integrity concerns
+
+R - RECOMMENDATION
+------------------
+  * What needs to happen this shift (labs due, family meeting scheduled, discharge planning barrier)
+  * Any pending physician call-back or order clarification
+  * Anything the outgoing nurse is specifically worried about
+
+BEDSIDE HANDOFF CHECKLIST (walk into the room together)
+-------------------------------------------------------
+  1. Introduce incoming nurse to patient by name
+  2. Visually verify IV site, dressing, and drain status together
+  3. Confirm pump settings against the eMAR together
+  4. Ask the patient/family if they have any questions or concerns before outgoing nurse leaves
+  5. Confirm call light is within reach and patient knows how to use it
+
+DO NOT SKIP THESE EVEN IF RUSHED
+--------------------------------
+  * Code status confirmation - never assume it's the same as yesterday
+  * Allergy confirmation - verbally, not just glancing at the wristband
+  * Any medication due within the next hour
+  * Fall risk / restraint status and last restraint reassessment time
+
+END OF CHECKLIST NOTE
+---------------------
+If something feels unclear or incomplete during handoff, stop and ask - don't accept the patient's care until you're confident in the picture you've been given. It is always acceptable to ask the outgoing nurse to stay two more minutes to clarify.
+
+
+FREQUENTLY ASKED QUESTIONS
+--------------------------
+  * Q: What if the outgoing nurse is in a hurry and wants to skip bedside handoff? A: Bedside handoff is not optional per unit policy; ask the charge nurse to help facilitate if time is a genuine concern rather than skipping it.
+  * Q: Do we do SBAR handoff for a patient going to a procedure and coming right back? A: Yes, a shortened SBAR is still given to the receiving procedural staff, and again when the patient returns to the unit.
+  * Q: What if I disagree with the outgoing nurse's assessment of the patient? A: Do your own independent assessment as soon as you accept care - it's expected and encouraged, not a sign of distrust.
+
+NEW GRADUATE NOTE
+-----------------
+It's normal to feel like handoff takes longer when you're new - use the full SBAR structure every time until it becomes automatic rather than trying to shortcut it to save time. Preceptors are expected to model full bedside handoff during orientation.
+
+
+WORKED EXAMPLE - FULL SBAR AT BEDSIDE
+-------------------------------------
+Outgoing RN: 'This is Mrs. Alvarez in 308, full code, admitted for pneumonia. She's been stable overnight, on 2 liters nasal cannula, sats 94-96%. Her last pain med was Tylenol at 0400 for a headache, resolved. IV is a 20-gauge in her left forearm, day 2, site looks good, no redness. She's a fall risk, bed alarm is on, she's been using the call bell appropriately overnight. Family is not here right now but her daughter usually visits around 10am. She has a chest X-ray pending this morning and the doctor wants to reassess for possible discharge tomorrow if she keeps improving.'
+
+Incoming RN: 'Got it - full code, pneumonia, stable overnight, 2L NC, IV day 2 looks good, fall risk with bed alarm, X-ray pending, possible discharge tomorrow. Let me go verify the IV site and pump settings with you before you head out.'
+
+Both nurses walk into the room together, visually confirm the IV site and pump rate against the eMAR, confirm the bed alarm is actually on (not just documented as on), and ask Mrs. Alvarez if she has any questions before the outgoing nurse leaves for the day.
+
+
+CHARGE NURSE SPOT-CHECK EXPECTATIONS
+------------------------------------
+Charge nurses periodically observe bedside handoffs, particularly for new graduate nurses and float/agency staff, to confirm all SBAR elements and the safety checks (IV site, pump settings, call light) are actually being completed together rather than just verbally described in the hallway.
+
+If a unit is short-staffed and handoffs are being rushed, the charge nurse is expected to temporarily jump in and assist with patient care tasks so nurses can still complete full bedside handoff rather than cutting corners on shift change safety checks.
+

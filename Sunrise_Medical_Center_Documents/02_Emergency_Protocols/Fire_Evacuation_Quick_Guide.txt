@@ -1,0 +1,101 @@
+==============================================================================
+SUNRISE MEDICAL CENTER
+FIRE SAFETY AND EVACUATION QUICK GUIDE
+==============================================================================
+Sunrise Medical Center
+Document Title: Fire Safety and Evacuation Quick Guide
+Document ID: SMC-NOTE-055
+Department: Facilities / Safety Office
+Effective Date: N/A (posted reference)
+Last Revised: June 2026
+Policy Owner: Hospital Safety Officer
+Distribution: All Sunrise Medical Center Staff
+------------------------------------------------------------------------------
+
+REMEMBER: R.A.C.E.
+------------------
+  * R - RESCUE anyone in immediate danger from the fire/smoke
+  * A - ALARM: pull the nearest fire alarm pull station AND call Code Red (ext 0, ask operator to announce Code Red + location)
+  * C - CONTAIN: close all doors to slow smoke/fire spread, do NOT lock them
+  * E - EXTINGUISH (only small, contained fires, using PASS) or EVACUATE if fire is beyond a small trash-can-sized fire
+
+REMEMBER: P.A.S.S. (fire extinguisher use)
+------------------------------------------
+  1. Pull the pin
+  2. Aim low, at the base of the fire, not the flames
+  3. Squeeze the handle slowly
+  4. Sweep side to side across the base of the fire
+
+IN PATIENT CARE AREAS - EVACUATION PRIORITY
+-------------------------------------------
+Hospitals use HORIZONTAL evacuation first (move patients through smoke doors to the adjacent fire compartment on the SAME floor) rather than vertical evacuation, unless the immediate area is untenable. Do not use elevators during a Code Red under any circumstances - stairs only, and only if directed to fully evacuate.
+
+  * Ambulatory patients: walk them to the safe zone beyond the nearest smoke door
+  * Wheelchair/non-ambulatory patients: use the unit's evacuation chairs (stored near the stairwell, labeled)
+  * Bed-bound patients: move the entire bed through the smoke doors if the immediate area is threatened; do not attempt to transfer the patient to a different surface during an active fire
+  * Infants/NICU: use the evacuation cribs (wheeled bassinets) - staff assignments are posted on the unit fire plan
+
+SMOKE DOOR LOCATIONS AND ZONES
+------------------------------
+Every unit has a posted fire compartment map near the nurse station showing the nearest smoke doors and the designated 'safe zone' on either side. Know YOUR unit's map before an emergency happens - don't wait to read it during a real fire.
+
+
+IF YOU DISCOVER A FIRE
+----------------------
+  1. Rescue anyone in immediate danger
+  2. Pull the nearest alarm pull station
+  3. Call ext 0 and state 'Code Red' plus exact building/floor/room
+  4. Close doors on your way out of the immediate area
+  5. Direct ambulatory patients/visitors to move away from the fire area, toward the nearest smoke doors
+  6. Do not re-enter the area until Facilities/Fire Department gives the all-clear
+
+EVACUATION CHAIR LOCATIONS BY UNIT (check your unit's actual posted map for the current layout)
+-----------------------------------------------------------------------------------------------
+  | Unit | Evacuation Chair Location
+  | 3rd Floor Med/Surg | Stairwell C, north end
+  | 4th Floor ICU | Stairwell A and Stairwell C
+  | 2nd Floor Labor & Delivery | Stairwell B, near nursery
+  | Emergency Department | Ambulance bay corridor closet
+
+AFTER THE ALL-CLEAR
+-------------------
+Do not return patients/equipment to the affected area until Facilities confirms it is safe. Charge nurse completes a headcount of all patients, staff, and visitors before considering the unit fully accounted for, and reports the count to the House Supervisor.
+
+
+FREQUENTLY ASKED QUESTIONS
+--------------------------
+  * Q: What if I can't reach the nearest pull station because of smoke? A: Prioritize getting yourself and anyone you're rescuing to safety first, then alert via the nearest safe phone or by shouting for help toward staffed areas.
+  * Q: Are elevators ever used during a Code Red? A: Only by the Fire Department itself once on scene, using elevator recall keys - staff and patients never use elevators during an active Code Red.
+  * Q: What if a patient refuses to evacuate? A: Explain the urgency clearly; for a competent adult who still refuses, note their location clearly for the Fire Department and continue evacuating others - do not put yourself at risk trying to force compliance.
+  * Q: How often are fire drills conducted? A: Each unit participates in unannounced fire drills at least quarterly, coordinated by the Safety Office, covering different shifts throughout the year.
+
+ADDITIONAL NOTES
+----------------
+Know the difference between your unit's 'Defend in Place' zones (for units like the OR or ICU where full evacuation of critical patients is especially high-risk) and standard horizontal evacuation zones - this is covered in your unit-specific fire plan binder.
+
+Report any blocked fire door, propped smoke door, or obstructed extinguisher location to Facilities at ext 4100 immediately - these are common findings during Joint Commission surveys and are everyone's responsibility to catch.
+
+
+WORKED EXAMPLE - SMALL TRASH CAN FIRE IN A SUPPLY ROOM
+------------------------------------------------------
+2:14 PM - Staff member notices smoke coming from a trash can in the supply room, no one else nearby, fire is small and contained to the can.
+
+2:14 PM - Staff member pulls the nearest fire alarm pull station (R-A-C-E: Rescue not needed here since no one is in danger, so straight to Alarm).
+
+2:15 PM - Staff member calls ext 0 and tells the operator 'Code Red, 2nd floor supply room near room 210' - operator announces it overhead.
+
+2:15 PM - Staff member closes the supply room door partially while deciding next step (Contain).
+
+2:16 PM - Because the fire is small and contained to a single trash can, staff member retrieves the nearest extinguisher and uses PASS to extinguish it, then leaves the door closed and waits for Facilities/Fire Department to confirm the area is fully safe before reopening it.
+
+If the fire had been larger than a small contained trash-can fire, the correct action would have been to evacuate and close the door rather than attempt to fight it.
+
+
+QUARTERLY DRILL EXPECTATIONS
+----------------------------
+Unannounced fire drills are scored on: pull station location knowledge, correct RACE sequence recall, smoke door / safe zone identification, and headcount completion time. Units scoring below expectation receive a follow-up drill within 30 days rather than waiting for the next quarterly cycle.
+
+During an actual drill (not a real fire), patients are informed it is a drill and are not required to physically evacuate unless the unit is specifically conducting a full evacuation drill, which is scheduled and announced to unit leadership in advance even though the drill itself is unannounced to staff.
+
+Visitors present during a drill are asked to remain in place and are briefly informed by staff that it is a drill, not an actual emergency, to avoid unnecessary alarm while still allowing staff to practice the real notification process.
+

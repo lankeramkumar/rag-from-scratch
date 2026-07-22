@@ -1,0 +1,29 @@
+[
+  {
+    "query": "What extension do I call for the IT Helpdesk?",
+    "answer": "[MOCK ANSWER -- no ANTHROPIC_API_KEY configured, so this is not a real LLM generation] Based on the top retrieved passage from IT_Helpdesk_Ticket_Submission_Notes.txt [1], see the CONTEXT block above for the relevant details. Set ANTHROPIC_API_KEY and re-run for a real synthesized, cited answer.",
+    "mode": "mock (no API key)",
+    "sources": [
+      {
+        "ref": 1,
+        "filename": "IT_Helpdesk_Ticket_Submission_Notes.txt",
+        "chunk_index": 6
+      },
+      {
+        "ref": 2,
+        "filename": "Password_and_Access_Control_Policy.docx",
+        "chunk_index": 5
+      },
+      {
+        "ref": 3,
+        "filename": "IT_Helpdesk_Ticket_Submission_Notes.txt",
+        "chunk_index": 1
+      },
+      {
+        "ref": 4,
+        "filename": "IT_Helpdesk_Ticket_Submission_Notes.txt",
+        "chunk_index": 2
+      }
+    ]
+  }
+]

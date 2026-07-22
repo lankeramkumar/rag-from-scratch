@@ -1,0 +1,113 @@
+==============================================================================
+SUNRISE MEDICAL CENTER
+HOSPITAL-WIDE EMERGENCY AND DEPARTMENT CONTACT LIST
+==============================================================================
+Sunrise Medical Center
+Document Title: Hospital-Wide Emergency and Department Contact List
+Document ID: SMC-NOTE-003
+Department: Administration
+Effective Date: N/A (living document)
+Last Revised: July 2026
+Policy Owner: Hospital Administration
+Distribution: All Sunrise Medical Center Staff
+------------------------------------------------------------------------------
+
+EXTERNAL EMERGENCY SERVICES
+---------------------------
+  | Service | Number
+  | Local Fire Department (non-911 business line) | (555) 201-3300
+  | Local Police Department (non-911 business line) | (555) 201-4400
+  | Poison Control Center | 1-800-222-1222
+  | Regional Blood Bank Supply Center | (555) 201-8800
+  | State Health Department Reportable Events Line | (555) 201-9900
+
+HOSPITAL LEADERSHIP ON-CALL
+---------------------------
+Full current on-call schedule is in the House Supervisor binder and the on-call scheduling app; below are department main lines for reference.
+
+  | Role | Contact Method
+  | House Supervisor (24/7) | ext 3000
+  | Administrator on Call | via House Supervisor / paging operator
+  | Chief Medical Officer Office | ext 3100
+  | Chief Nursing Officer Office | ext 3150
+  | Compliance Hotline (24/7, anonymous) | 1-888-555-0199
+  | Risk Management | ext 2600
+
+CLINICAL DEPARTMENTS
+--------------------
+  | Department | Extension
+  | Emergency Department Charge Nurse | 2200
+  | ICU Charge Nurse | 2300
+  | Labor & Delivery Charge Nurse | 2350
+  | Operating Room Front Desk | 2400
+  | Pharmacy Main Line | 2100
+  | Radiology Front Desk | 2700
+  | Laboratory Front Desk | 2750
+  | Blood Bank | 2450
+  | Respiratory Therapy | 2500
+  | Case Management | 2800
+  | Social Work | 2850
+  | Chaplaincy | 2950
+  | Interpreter Services | 2900
+
+SUPPORT AND ADMINISTRATIVE DEPARTMENTS
+--------------------------------------
+  | Department | Extension
+  | IT Helpdesk (24/7) | 6000
+  | Facilities/Engineering | 4100
+  | Security (non-emergency) | 4200
+  | Security (emergency/panic) | 4911
+  | Environmental Services Dispatch | 4300
+  | Human Resources Main Line | 5000
+  | Employee Health | 5050
+  | Employee Assistance Program (EAP) | 1-800-555-0142
+  | Patient Access / Registration | 1500
+  | Patient Financial Services | 1600
+  | Health Information Management (Medical Records) | 1700
+
+OVERHEAD CODE QUICK LIST (see full Nurse Station Quick Reference for details)
+-----------------------------------------------------------------------------
+  * Code Blue = Cardiac/respiratory arrest (dial 5555)
+  * Code Red = Fire
+  * Code Silver = Weapon/hostage
+  * Code Gray = Combative person
+  * Code Pink = Infant/child abduction
+  * Code Orange = Hazmat spill
+  * Code Black = Severe weather/bomb threat
+  * Rapid Response = Deteriorating patient, pre-arrest (dial 5556)
+
+NOTE ON THIS LIST
+-----------------
+This is a working reference document maintained by Administration and updated whenever extensions or on-call structures change. Report any incorrect number to Administration at ext 3050 so it can be corrected hospital-wide.
+
+
+FREQUENTLY ASKED QUESTIONS
+--------------------------
+  * Q: This list has a wrong number - what do I do? A: Email Administration at admin-updates@sunrisemedical.internal or call ext 3050; do not just cross it out on the shared copy without reporting it.
+  * Q: Is there a version of this list for personal cell phones? A: A abbreviated wallet card version is available from your unit manager for staff who want one; it excludes any number not appropriate for external distribution.
+  * Q: Who updates the on-call schedule referenced in this document? A: The on-call scheduling app is maintained by each department's scheduling coordinator, not by Administration directly.
+
+DISTRIBUTION NOTE
+-----------------
+This list is posted at every nurse station, every department front desk, and the House Supervisor office. It is reprinted whenever a number changes and quarterly regardless, to catch any accumulated small errors.
+
+
+WORKED EXAMPLE - USING THIS LIST DURING AN AFTER-HOURS ISSUE
+------------------------------------------------------------
+11:40 PM - A nurse on the medical floor discovers the automated dispensing cabinet is offline and cannot dispense a scheduled medication.
+
+11:41 PM - Nurse checks this list, finds IT Helpdesk is 24/7 at ext 6000, and calls to report the outage as urgent since it is actively affecting patient care.
+
+11:45 PM - IT confirms a network issue affecting only that unit's ADC and provides an estimated fix time; nurse also notifies the House Supervisor at ext 3000 per unit policy for any medication access disruption.
+
+11:50 PM - House Supervisor arranges a backup process (manual pharmacy delivery with two-nurse verification) until the ADC is restored, coordinating directly with the Pharmacy after-hours pager listed above.
+
+This example shows why it's useful to know both the specific department extension AND the House Supervisor number - some issues need both a technical fix and an operational workaround while waiting.
+
+
+HOW OFTEN THIS LIST IS VERIFIED
+-------------------------------
+Administration verifies every extension on this list at the start of each quarter by calling each line and confirming it reaches the intended department. Any number that rings incorrectly, goes to a disconnected line, or reaches the wrong department is corrected within one business day and an updated version is reprinted and redistributed to all posting locations.
+
+Departments that change their main line number are required to notify Administration at ext 3050 as part of the IT change/move request process, so this list stays synchronized with actual phone system changes rather than relying solely on the quarterly audit to catch it.
+

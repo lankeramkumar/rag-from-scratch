@@ -1,0 +1,120 @@
+==============================================================================
+SUNRISE MEDICAL CENTER
+NURSE STATION QUICK REFERENCE - OVERHEAD CODES AND ESCALATION NUMBERS
+==============================================================================
+Sunrise Medical Center
+Document Title: Nurse Station Quick Reference - Overhead Codes and Escalation Numbers
+Document ID: SMC-NOTE-101
+Department: Nursing Administration
+Effective Date: N/A (living reference sheet)
+Last Revised: July 2026
+Policy Owner: Nursing Education Department
+Distribution: All Sunrise Medical Center Staff
+------------------------------------------------------------------------------
+
+OVERHEAD EMERGENCY CODES (memorize these)
+-----------------------------------------
+Posted at every nurse station and taped inside the med room door. Update immediately if hospital operator changes a code definition.
+
+  * Code Blue = Adult cardiac/respiratory arrest -> dial 5555, state unit + room TWICE
+  * Code Blue Pediatric = Pediatric/neonatal arrest -> dial 5555, specify 'Pediatric'
+  * Code Red = Fire -> R.A.C.E. (Rescue, Alarm, Contain, Extinguish/Evacuate)
+  * Code Silver = Weapon or hostage situation -> do NOT use overhead announcement, use silent alert button
+  * Code Gray = Combative person, need assistance -> Security responds in under 3 min
+  * Code Pink = Infant/child abduction -> all exits lock automatically, staff watch stairwells
+  * Code Orange = Hazmat spill -> evacuate area, call Facilities ext. 4100
+  * Code Black = Severe weather / bomb threat -> follow unit-specific shelter plan
+  * Code Triage Internal = Mass casualty, hospital resources strained
+  * Code Triage External = Mass casualty event in community, expect surge
+  * Rapid Response = Patient deterioration, NOT yet arrest -> dial 5556
+
+RAPID RESPONSE ACTIVATION CRITERIA
+----------------------------------
+Call Rapid Response (ext 5556) if you see ANY of these - don't wait for the doctor to 'agree' first, activate and explain after:
+
+  * HR < 40 or > 140
+  * SBP < 90 or > 200
+  * RR < 8 or > 28
+  * SpO2 < 90% despite oxygen
+  * Sudden change in level of consciousness
+  * New chest pain unrelieved by nitro x3
+  * Staff or family 'gut feeling' something is wrong (this alone is valid!)
+
+WHO TO CALL - UNIT ESCALATION LADDER
+------------------------------------
+  1. Bedside RN notices issue -> notify Charge Nurse immediately
+  2. Charge Nurse -> notify House Supervisor (ext 3000) if unresolved in 15 min
+  3. House Supervisor -> notify Nursing Director on-call (see pager list below) if unresolved in 30 min
+  4. For any patient safety concern that feels unsafe RIGHT NOW -> skip the ladder, call Rapid Response or Code Blue directly
+
+KEY EXTENSIONS (internal only, dial 4 digits from any hospital phone)
+---------------------------------------------------------------------
+  | Department | Ext.
+  | Hospital Operator / Overhead Page | 0
+  | Code Blue / Rapid Response Dispatch | 5555 / 5556
+  | Security (non-emergency) | 4200
+  | Security (emergency/panic) | 4911
+  | House Supervisor | 3000
+  | Pharmacy (main) | 2100
+  | Pharmacy (after hours pager) | 2101
+  | IT Helpdesk | 6000
+  | Facilities/Engineering | 4100
+  | Interpreter Services (video/phone) | 2900
+  | Blood Bank | 2450
+  | Radiology Reading Room | 2700
+  | Case Management | 2800
+  | Chaplaincy | 2950
+  | Risk Management (incident reporting) | 2600
+
+MEDICATION ROOM QUICK NOTES
+---------------------------
+  * ALL Schedule II meds require witnessed waste - find a second RN before you leave the ADC
+  * Report any ADC discrepancy to charge nurse AND pharmacy same shift, don't wait
+  * Fridge temp log checked q4h - if out of 2-8C range for 15+ min, quarantine + call pharmacy ext 2100
+  * High-alert meds (insulin, heparin, concentrated electrolytes) = independent double check, no exceptions
+  * Look-alike/sound-alike meds are tall-man lettered on shelf labels - read twice
+
+SHIFT REMINDERS
+---------------
+Badge tap in/out at med room door every time, even for 'just a second.' Don't prop the door. Report any tailgating into secure areas to charge nurse.
+
+If EHR goes down: switch to downtime paper forms in the red binder at the nurse station, notify IT Helpdesk ext 6000, and notify House Supervisor.
+
+
+FREQUENTLY ASKED QUESTIONS
+--------------------------
+  * Q: What if I'm not sure whether to call Rapid Response or Code Blue? A: If the patient still has a pulse and is breathing, call Rapid Response. If no pulse/not breathing, call Code Blue. When in doubt, Code Blue is always the safer call.
+  * Q: Can a family member trigger a Rapid Response? A: Yes - many hospitals including ours allow 'Family Activated Rapid Response,' ask your charge nurse for the current family-facing instructions posted at bedside.
+  * Q: What if the overhead page system itself is down? A: Use the hospital phone tree - call House Supervisor ext 3000 directly and they will relay via runner/radio.
+  * Q: Do I still call a Code Blue for a patient with a DNR order? A: Call it anyway so the team responds and can confirm the DNR status from the chart; do not assume based on a verbal report alone.
+
+ADDITIONAL UNIT NOTES
+---------------------
+New float pool and agency staff: ask your charge nurse for a 5-minute code review during your first shift on any unit - extensions and code button locations can vary slightly by building wing.
+
+This sheet is reviewed and reprinted quarterly by Nursing Education. If you find an outdated extension, tell your charge nurse so it can be corrected before the next print cycle.
+
+Laminated copies are kept at the nurse station, in the medication room, and in the break room. Do not remove the laminated copies from the unit.
+
+
+WORKED EXAMPLE - CODE STROKE FROM A MED/SURG UNIT
+-------------------------------------------------
+0800 - Tech doing routine vitals notices patient's speech is suddenly slurred and the patient can't lift their right arm off the bed. Tech does NOT wait to find the nurse first - immediately hits the call bell and yells for help while staying with the patient.
+
+0801 - RN arrives, does a 10-second FAST check: face droop present, arm drift present, speech slurred. RN tells the tech 'go dial 5555 and say Code Stroke, 4th floor, room 412' while RN stays at bedside and gets a finger-stick glucose and full vital signs.
+
+0803 - Charge nurse arrives to help move the patient to a wheelchair/stretcher for transport to CT. RN documents the exact time the patient was last seen normal (patient's roommate says 0730 during breakfast).
+
+0805 - CT tech and Telestroke physician have been paged simultaneously per protocol - patient is already moving toward Radiology, RN doesn't wait for neurology to arrive in person.
+
+0808 - Patient arrives in CT. Non-contrast head CT begins. This entire sequence - from symptom discovery to CT - took under 10 minutes because no single step waited on the previous one to fully finish before mobilizing the next.
+
+
+PRINTED COPY LOG AND SIGN-OFF
+-----------------------------
+Each unit keeps a laminated master copy at the nurse station and a second at the medication room. When Nursing Education issues an update, the outgoing copy is pulled and replaced the same day, and the unit's Nurse Educator or Charge Nurse initials the back of the new copy with the effective date so staff can confirm they are looking at the current version.
+
+Staff completing annual competency validation are asked one code-response question at random from this sheet as part of their skills fair; this is meant to reinforce familiarity, not to catch people out, and staff may reference the sheet if they're unsure.
+
+If your unit's copy is missing, torn, or clearly outdated compared to the version on the intranet, notify your Charge Nurse the same shift rather than waiting for the next scheduled unit audit.
+
