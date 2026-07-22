@@ -1,0 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>RAG From Scratch — Ram Kumar Lanke</title>
+<meta name="description" content="A dependency-light Retrieval-Augmented Generation pipeline, built stage by stage, demonstrated over a multi-format hospital document corpus.">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg-top: #0a0e16;
+    --bg-bottom: #101520;
+    --accent: #38bdf8;
+    --accent2: #a78bfa;
+    --white: #f0f4f8;
+    --gray: #94a3b8;
+    --dim: #334155;
+    --node: #161c28;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    min-height: 100vh;
+    background: linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
+    color: var(--white);
+    font-family: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+  }
+  main {
+    max-width: 860px;
+    width: 100%;
+    padding: 72px 24px 56px;
+  }
+  .eyebrow {
+    font-family: "Consolas", "SF Mono", monospace;
+    color: var(--accent);
+    letter-spacing: 0.12em;
+    font-size: 13px;
+    margin-bottom: 18px;
+  }
+  h1 {
+    font-size: 48px;
+    margin: 0 0 6px;
+    line-height: 1.1;
+  }
+  h1 span { color: var(--accent); }
+  .tagline {
+    color: var(--white);
+    font-size: 19px;
+    margin: 22px 0 4px;
+  }
+  .tagline.dim { color: var(--gray); margin-bottom: 34px; }
+  .underline {
+    width: 130px;
+    height: 5px;
+    border-radius: 3px;
+    background: var(--accent);
+    margin: 18px 0 0;
+  }
+  .cards {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+    margin: 20px 0 40px;
+  }
+  @media (max-width: 640px) { .cards { grid-template-columns: 1fr; } }
+  a.card {
+    display: block;
+    text-decoration: none;
+    color: inherit;
+    background: var(--node);
+    border: 1px solid var(--dim);
+    border-radius: 14px;
+    padding: 22px 24px;
+    transition: border-color 0.15s ease, transform 0.15s ease;
+  }
+  a.card:hover {
+    border-color: var(--accent);
+    transform: translateY(-2px);
+  }
+  a.card h3 {
+    margin: 0 0 8px;
+    font-size: 17px;
+    color: var(--white);
+  }
+  a.card p {
+    margin: 0;
+    font-size: 14px;
+    color: var(--gray);
+    line-height: 1.5;
+  }
+  a.card .arrow { color: var(--accent); font-family: monospace; }
+  section.section-label {
+    font-family: "Consolas", "SF Mono", monospace;
+    color: var(--accent2);
+    letter-spacing: 0.08em;
+    font-size: 13px;
+    margin: 8px 0 14px;
+  }
+  .repo-link {
+    display: inline-block;
+    margin-top: 4px;
+    padding: 12px 22px;
+    border-radius: 8px;
+    background: var(--accent);
+    color: #0a0e16;
+    font-weight: 700;
+    text-decoration: none;
+    font-size: 15px;
+  }
+  .repo-link:hover { opacity: 0.9; }
+  footer {
+    margin-top: 56px;
+    padding-top: 24px;
+    border-top: 1px solid var(--dim);
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-size: 14px;
+  }
+  footer .name { font-weight: 700; }
+  footer .role { color: var(--gray); margin-left: 10px; }
+  footer a { color: var(--accent); text-decoration: none; font-family: "Consolas", "SF Mono", monospace; font-size: 13px; }
+</style>
+</head>
+<body>
+<main>
+  <div class="eyebrow">OPEN SOURCE &nbsp;&middot;&nbsp; RETRIEVAL-AUGMENTED GENERATION</div>
+  <h1>RAG <span>From Scratch</span></h1>
+  <div class="underline"></div>
+  <p class="tagline">A dependency-light RAG pipeline, built stage by stage.</p>
+  <p class="tagline dim">No framework. Every part visible, swappable, and explainable — demonstrated over a real, multi-format (PDF/Word/text/image/audio/video) hospital document corpus.</p>
+
+  <div class="section-label">LIVE INTERACTIVE DEMOS</div>
+  <div class="cards">
+    <a class="card" href="output/08_embedding_space_interactive.html">
+      <h3>Embedding Space <span class="arrow">&rarr;</span></h3>
+      <p>Every chunk from the corpus, projected to 2D. Hover a dot for its source document, click for the actual text it represents.</p>
+    </a>
+    <a class="card" href="output/09_vector_search_interactive.html">
+      <h3>Vector Search <span class="arrow">&rarr;</span></h3>
+      <p>Pick a demo question and watch it plotted as a star, with dashed lines to its top-4 nearest neighbors in the same space.</p>
+    </a>
+  </div>
+
+  <div class="section-label">GET THE CODE</div>
+  <a class="repo-link" href="https://github.com/lankeramkumar/rag-from-scratch">View on GitHub &rarr;</a>
+
+  <footer>
+    <div><span class="name">Ram Kumar Lanke</span><span class="role">Applied AI Solutions Architect</span></div>
+    <a href="mailto:lankeramkumar@gmail.com">lankeramkumar@gmail.com</a>
+  </footer>
+</main>
+</body>
+</html>
